@@ -4,6 +4,10 @@
 
 ![coding-06](https://github.com/Adnel1/Adnel1/assets/26168361/7dddf898-e255-4ced-8032-86abce5e0ee8)
 
+<p>
+    I am a Full-stack software developer with a passion for crafting innovative solutions, equipped with 8 years of hands-on experience in graphic design, I blend creativity with technical acumen to produce visually stunning interfaces. My expertise includes front-end technologies such as React.js, HTML, CSS, Bootstrap, and JavaScript, as well as back-end technologies like Flask, Python, PostgreSQL, and APIs. I have a deep love for learning new things, which is reflected in my diverse hobbies such as reading, practicing guitar, and staying active.
+</p>
+
 <h2 align="center">Connect with me</h2>
 <p align="center">
     <a href="https://linkedin.com/in/adnel" target="blank">
